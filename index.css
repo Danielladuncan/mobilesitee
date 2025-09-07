@@ -56,3 +56,9 @@ li {
   line-height: 1.6;
   font-weight: 300;
 }
+footer {
+  font-family: "baskerville", sans-serif;
+  font-weight: 300;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
